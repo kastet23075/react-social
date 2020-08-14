@@ -1,0 +1,10 @@
+.dialog {
+
+}
+.dialog img {
+    margin-right: 5px;
+    width: 50px;
+}
+.active {
+    color: gold;
+}
